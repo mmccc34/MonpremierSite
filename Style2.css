@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+h2 {
+    color:brown;
+}
+p {
+    color:rgb(252, 14, 6);
+}
+ul {
+    color:rgb(139, 0, 0);
+}
+/* Ci dessus toutes les couleurs */
+.paragraphe {
+    color:black;
+}
+#logo {
+    width: 600px;
+     height: auto;
+     text-align: center; 
+}
+.conteneur {
+    text-align: center;
+    margin: auto;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
