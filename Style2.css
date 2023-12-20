@@ -1,28 +1,25 @@
-h1 {
-    color:rgb(0, 0, 0);
+body {background-color: rgb(21, 122, 216);
+    color:white;
+}
+
+h1, h2 {
     text-align: center;
     font-size: 50px
     font-family: sans-serif;
-}
-h2 {
-    color:brown;
-}
-p {
-    color:rgb(252, 14, 6);
 }
 ul {
     color:rgb(139, 0, 0);
 }
 /* Ci dessus toutes les couleurs */
 .paragraphe {
-    color:black;
+    color:rgb(241, 241, 241);
 }
 #logo {
     width: 600px;
      height: auto;
      text-align: center; 
 }
-.conteneur {
+.logoaccueil {
     text-align: center;
     margin: auto;
     height: 50vh;
