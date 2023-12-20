@@ -1,18 +1,19 @@
-body {background-color: rgb(21, 122, 216);
-    color:white;
+body {background-color: rgb(238, 212, 157);
+    color: black;
 }
 
 h1, h2 {
+    font-family: Helvetica;
     text-align: center;
-    font-size: 50px
-    font-family: sans-serif;
+    font-size: 40px
 }
 ul {
     color:rgb(139, 0, 0);
 }
 /* Ci dessus toutes les couleurs */
 .paragraphe {
-    color:rgb(241, 241, 241);
+    font-family: Helvetica;
+    color: black;
 }
 #logo {
     width: 600px;
